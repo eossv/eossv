@@ -13,12 +13,12 @@
     "social": {
       "steemit": "eossv",
       "twitter": "EOS_SV",
+      "telegram": "eossv",
+      "medium": "eossiliconvalley",
       "youtube": "",
       "facebook": "",
       "reddit": "",
-      "keybase": "",
-      "telegram": "eossv",
-      "medium": "eossiliconvalley"
+      "keybase": ""
     }
   },
   "nodes": [
