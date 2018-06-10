@@ -2,7 +2,7 @@
 Our website: https://eossv.io
 
 # Vote for the best EOS block producer
-Our BP account: eossv12eossv 
+Our BP account: **eossv12eossv**
 
 We really appreciate your votes, and we will let you down.
 
