@@ -32,7 +32,7 @@
       "is_producer": false,
       "p2p_endpoint": "fn001.eossv.org:443",
       "api_endpoint": "http://fn001.eossv.org:80",
-      "ssl_endpoint": ""
+      "ssl_endpoint": "https://fn001.eossv.org:444"
     },
     {
       "location": {
