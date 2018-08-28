@@ -4,6 +4,11 @@
   "org": {
     "candidate_name": "EOS Silicon Valley",
     "website": "https://www.eossv.io",
+    "branding": {
+      "logo_256": "https://eossiliconvalley.io/logo_256.png",
+      "logo_1024": "https://eossiliconvalley.io/logo_1024.png",
+      "logo_svg": "https://eossiliconvalley.io/logo.svg"
+    },
     "location": {
       "name": "Mountain View",
       "country": "US",
